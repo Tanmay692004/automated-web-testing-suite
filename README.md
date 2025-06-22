@@ -1,5 +1,10 @@
 # Automated Web Testing Suite
 
+![CI](https://github.com/Tanmay692004/automated-web-testing-suite/actions/workflows/pytest.yml/badge.svg)
+
+A Selenium + Python test suite that runs automatically on every push using GitHub Actions.
+
+
 This project automates key test cases for an e-commerce website using Selenium and Python.
 
 ## 🔧 Tech Stack
